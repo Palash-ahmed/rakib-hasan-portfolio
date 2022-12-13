@@ -1,0 +1,22 @@
+.top-font{
+    color: #FF014F
+}
+
+.bg-img{
+    background-color: #eaeef1;
+}
+
+.monoster-fonts{
+   font-family: 'Montserrat', sans-serif;
+}
+
+.project-color{
+    background-color: #F1F4F6;
+}
+
+.card-shadow {
+    background-color: #F1F4F6;
+    /* border-radius: 15px; */
+    box-shadow: 10px 10px 7px #e4e1e1,
+        -10px -10px 7px #faf9f9;
+}

@@ -1,0 +1,9 @@
+.navbar li{
+    margin-right: 10px;
+    display:  flex;
+    
+    }
+    
+    .nav-color{
+        background-color: #ECF0F3;
+    }
